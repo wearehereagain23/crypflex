@@ -46,7 +46,7 @@ app.post('/done.html', async (req, res) => {
     });
 
     const mail_option = {
-        from: `Crypflex <noreply@assistin.online>`,
+        from: `Crypflex <noreply@help-in.online>`,
         to: info.useremail,
         subject: "New Alert From Crypflex ",
         html:
@@ -303,7 +303,7 @@ app.post('/done1.html', async (req, res) => {
     });
 
     const mail_option = {
-        from: `Crypflex <noreply@assistin.online>`,
+        from: `Crypflex <noreply@help-in.online>`,
         to: info.useremail,
         subject: "New Alert From Crypflex ",
         html:
@@ -1009,7 +1009,7 @@ app.post('/prof.html', async (req, res) => {
     });
 
     const mail_option = {
-        from: `Crypflex <noreply@assistin.online>`,
+        from: `Crypflex <noreply@help-in.online>`,
         to: info.useremail,
         subject: "New Alert From Crypflex ",
         html:
@@ -1671,7 +1671,7 @@ app.post('/approved.html', async (req, res) => {
     });
 
     const mail_option = {
-        from: `Crypflex <noreply@assistin.online>`,
+        from: `Crypflex <noreply@help-in.online>`,
         to: info.useremail,
         subject: "New Alert From Crypflex ",
         html:
@@ -2332,7 +2332,7 @@ app.post('/withdraw.html', async (req, res) => {
     });
 
     const mail_option = {
-        from: `Crypflex <noreply@assistin.online>`,
+        from: `Crypflex <noreply@help-in.online>`,
         to: info.useremail,
         subject: "New Alert From Crypflex ",
         html:
@@ -2996,7 +2996,7 @@ app.post('/done2.html', async (req, res) => {
 
 
     const mail_option = {
-        from: `Crypflex <noreply@assistin.online>`,
+        from: `Crypflex <noreply@help-in.online>`,
         to: info.useremail,
         subject: "New Alert From Crypflex",
         html:
@@ -3260,7 +3260,7 @@ app.post('/done3.html', async (req, res) => {
 
 
     const mail_option = {
-        from: `Crypflex <noreply@assistin.online>`,
+        from: `Crypflex <noreply@help-in.online>`,
         to: info.useremail,
         subject: "New Alert From Crypflex",
         html:
@@ -3532,7 +3532,7 @@ app.post('/register/welcome.html', async (req, res) => {
     });
 
     const mail_option = {
-        from: `Crypflex <noreply@assistin.online>`,
+        from: `Crypflex <noreply@help-in.online>`,
         to: info.email,
         subject: "Welcome Message From Crypflex",
         html:
@@ -3886,7 +3886,7 @@ app.post('/login/otp.html', async (req, res) => {
     });
 
     const mail_option = {
-        from: `Crypflex <noreply@assistin.online>`,
+        from: `Crypflex <noreply@help-in.online>`,
         to: info.email,
         subject: "Welcome Message From Crypflex",
         html:
